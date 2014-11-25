@@ -1,7 +1,8 @@
 Rock-Paper-Scissors
+Simple looping rock paper scissors game
 ===================
 
-Simple looping rock paper scissors game
+
 var userChoice = prompt("Do you choose rock, paper or scissors?");
 function computerDecider() {
 var computerChoice = Math.random();
